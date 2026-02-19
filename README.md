@@ -18,7 +18,12 @@ cad
 PCB / Schematic
 The PCB as well as the schematic is pictured below:
 
+PCB
+
 <img width="1438" height="935" alt="image" src="https://github.com/user-attachments/assets/64cd7603-a329-4762-9848-843581cb7f1e" />
+
+SCHEMATIC
+<img width="1460" height="1002" alt="image" src="https://github.com/user-attachments/assets/107196f8-c2b2-4d43-abb4-04da2260bafa" />
 
 
 BOM:
