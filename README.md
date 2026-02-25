@@ -2,7 +2,7 @@ Khan Pad
 The Khan is Board of typing is a 4 key macropad/keyboard with 2 EC11 style rotary encoders.
 
 Features:
-Sandwich style mount - 3D printable with screws and heatset inserts
+3D printable with screws and heatset inserts
 EC11 Rotary encoders for rotational action AND they serve as switches/keys
 4 fully programmable keys in a matrix
 CAD Model:
@@ -11,9 +11,10 @@ CAD Model:
 The model consists of a bottom case, a plate, and a bracket for the top, so the key switches themselves are less exposed.
 
 
+CAD
 
-cad
-<img width="1704" height="1011" alt="Screenshot 2026-02-18 222736" src="https://github.com/user-attachments/assets/14e93a7f-e210-4533-b2d4-261b1b8331cc" />
+<img width="1731" height="961" alt="Screenshot 2026-02-24 200830" src="https://github.com/user-attachments/assets/a1d031ae-5da6-4b26-bff4-649e4875b831" />
+
 
 PCB / Schematic
 The PCB as well as the schematic is pictured below:
@@ -23,11 +24,12 @@ PCB
 <img width="1438" height="935" alt="image" src="https://github.com/user-attachments/assets/64cd7603-a329-4762-9848-843581cb7f1e" />
 
 SCHEMATIC
-<img width="1460" height="1002" alt="image" src="https://github.com/user-attachments/assets/107196f8-c2b2-4d43-abb4-04da2260bafa" />
+<img width="647" height="442" alt="image" src="https://github.com/user-attachments/assets/fc8982aa-11ab-411b-b4f8-0a3126f17b79" />
+
 
 
 BOM:
-Here is everything needed to make the macpad
+Here is everything needed to make the BoardPad
 
 4x Cherry MX Switches
 4x DSA Keycaps
